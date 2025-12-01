@@ -99,7 +99,7 @@ section{
 .block{
     height: 30px;
     width: 30px;
-    /* border: 1px solid var(--border-block-color); */
+    /* border: 1px solid var(--border-block-color);//d */
     border-radius: var(--border-radius-lg);
 }
 
